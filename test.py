@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
-
-first = '3'
-second = '4'
-print(first)
+list = []
+while(True):
+    nums = int(input("enter a number:"))
+    list.append(nums)
+    if(nums == 2):
+        break
+print(list)
