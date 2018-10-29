@@ -23,4 +23,4 @@ elif(standard1 <= bmi < standard2):
 elif(standard2 <= bmi < standard3):
     print("肥胖")
 else:
-    print("过度肥胖")
+    print("过度肥胖")#这是一个注释
